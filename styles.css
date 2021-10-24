@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
+
+h1 {
+  font-family: Roboto, sans-serif;
+  font-weight: 900;
+}
+li {
+  font-family: Roboto, sans-serif;
+}
+p {
+  font-family: Roboto, sans-serif;
+}
+ul {
+  list-style-type: none;
+  /* Hides Bullet Points */
+}
+a {
+  text-decoration: none;
+}
+.aboutme {
+    background-color: lightgray;
+    color: darkblue;
+    font-size: 1.25rem;
+    text-shadow: 2px 2px 4px #000;
+}
